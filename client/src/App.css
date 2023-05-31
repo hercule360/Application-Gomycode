@@ -1,0 +1,129 @@
+.App {
+  text-align: center;
+}
+
+body {  
+
+  background: url("https://images.unsplash.com/photo-1579547944212-c4f4961a8dd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXRodW1ibmFpbHx8OTQyMTM3MXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=420&q=60/bg.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}  
+
+.footer {
+  display: flex;
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(37, 35, 37);
+  color: white;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+}
+.login {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+	width: 1050px;
+	padding: 30px;
+	padding-top: 100px;
+	color: #7875B5;
+  
+ 
+}
+.register{
+  position: relative;
+	width:15%;
+	height: 15%;
+	margin: 10px auto;
+	display: block;
+	color: #7875B5;
+	font-size: 1em;
+	font-weight: bold;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+  text-align: center;
+	padding-top: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+.film{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  align-items: flex-end;}
+
+.navigation{
+  display: inline;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+
+.footer {
+  display: inline;
+  text-align: center;
+  padding: 1px;
+  background-color: rgb(128, 28, 111);
+  color: white;
+}
+.contact{
+  position: relative;
+	width:15%;
+	height: 15%;
+	margin: 10px auto;
+	display: block;
+	color: #7875B5;
+	font-size: 1em;
+	font-weight: bold;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+  text-align: center;
+	padding-top: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);}
+
+  .addproduct{
+    position: relative;
+    width:15%;
+    height: 15%;
+    margin: 10px auto;
+    display: block;
+    color: #7875B5;
+    font-size: 1em;
+    font-weight: bold;
+    outline: none;
+    border: none;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  
+
+.profil{
+  position: relative;
+  width:15%;
+  height: 15%;
+  margin: 10px auto;
+  display: block;
+  color: #7875B5;
+  font-size: 1em;
+  font-weight: bold;
+  outline: none;
+  border: none;
+  border-radius: 50px;
+  text-align: center;
+  padding-top: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+
+
